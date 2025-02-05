@@ -1,13 +1,12 @@
-# 🧙‍♂️ Full-Stack Tech Wizard & Team Leader 🚀
+# 🧙‍♂️ Full-Stack Tech Wizard 🚀
 
 ## 💻 Tech Stack Sorcery
 - 🌐 Web: NextJS, ReactJS, NodeJS
 - 🗄️ Databases: MongoDB
 - 🐳 DevOps: Docker
 
-## 🛠️ Master of Many Trades
+## 🛠️ 
 - 🏗️ Full-stack development
-- 🔐 Blockchain solutions (BTC & Solana)
 
 Always up for a challenge and ready to turn your ideas into reality! 💡➡️💻
 
